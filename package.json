@@ -17,7 +17,7 @@
     "grok",
     "x.ai"
   ],
-  "author": "StackBlitz",
+  "author": "Ryan Riggin",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
