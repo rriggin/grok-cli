@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node grok-cli.js",
     "ask": "node grok-cli.js ask",
-    "test": "echo \"No tests specified\" && exit 0"
+    "test": "node --test src/__tests__/*.test.js"
   },
   "keywords": [
     "cli",
