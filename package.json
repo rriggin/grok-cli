@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "node grok-cli.js",
-    "ask": "node grok-cli.js ask"
+    "ask": "node grok-cli.js ask",
+    "test": "node --test src/__tests__/*.test.js"
   },
   "keywords": [
     "cli",
